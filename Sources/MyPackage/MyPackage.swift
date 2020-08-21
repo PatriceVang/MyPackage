@@ -1,3 +1,3 @@
-struct MyPackage {
-    var text = "Hello, World!"
+public class MyText {
+    public static let myTitle = "This is MyPackage"
 }
