@@ -1,7 +1,7 @@
 public class MyText {
     public static let myTitle = "This is MyPackage"
     
-    public static showTile() {
+    public static func showTile() {
         print(myTitle)
     }
 }
